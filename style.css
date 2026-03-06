@@ -52,9 +52,9 @@ a {
     font-size: 12px;
     color: white;
     padding: 5px 18px;
-    background-color: rgb(44, 87, 205);
-    box-shadow: none;
-    /* Ga verder met schaduw button verwijderen. */
+    background-color: rgb(66, 125, 226);
+    border: none;
+    border-radius: 5px;
 }
 
 .intro-image img {
